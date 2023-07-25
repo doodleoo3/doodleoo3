@@ -2,8 +2,10 @@
 <h3>Professional validator, ambassador and Im fulltime cryptoenthusiast</h3>
 
 <br>
+<br>
 
 I love programming and right now I'm trying to find myself in this direction. 
+
 <b>My current/main stack:</b>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -13,6 +15,7 @@ I love programming and right now I'm trying to find myself in this direction.
 
 Our team and I have a goal to create an entire infrastructure around our <a href="https://dteam.tech/">DTeam</a> brand, by the way, I am a DTeam founder:)
 
+<br>
 <br>
 
 If you want to contact me, you can do it by clicking the button below👇
