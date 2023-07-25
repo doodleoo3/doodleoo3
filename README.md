@@ -17,8 +17,4 @@ Our team and I have a goal to create an entire infrastructure around our <a href
 
 If you want to contact me, you can do it by clicking the button below👇
 
-<a href="https://t.me/doodle0o">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-
-
-
-
+<a href="https://t.me/doodle0o" target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
