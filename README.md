@@ -1,5 +1,5 @@
 <h1>Hello, I'm Eugene👋</h1>
-<h3>Professional validator, ambassador and Im fulltime cryptoenthusiast</h3>
+<h3>Professional validator, developer and cryptoenthusiast</h3>
 
 <br>
 <br>
@@ -13,7 +13,7 @@ I love programming and right now I'm trying to find myself in this direction.
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-Our team and I have a goal to create an entire infrastructure around our <a href="https://dteam.tech/">DTeam</a> brand, by the way, I am a DTeam founder:)
+Our team and I have a goal to create an entire infrastructure around our <a href="https://dteam.tech/">DTEAM</a> brand, by the way, I am a DTEAM founder:)
 
 <br>
 <br>
